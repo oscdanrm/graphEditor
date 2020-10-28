@@ -66,37 +66,7 @@ public class MainFunctionallity {
                     break;
                 
             }
-            
-            /*if(onlyCommand.equals("I")){
-                mat = createMatrix(command);
-                printMatrix(mat);
-            }
-            
-            if(onlyCommand.equals("C")){
-                mat = clearMatrix(mat);
-                printMatrix(mat);
-            }
-            
-            if(onlyCommand.equals("L")){
-                mat = lCommand(mat, command);
-                printMatrix(mat);
-            }
-            
-            if(onlyCommand.equals("V")){
-                mat = vCommand(mat, command);
-                printMatrix(mat);
-            }
-            
-            if(onlyCommand.equals("H")){
-                mat = hCommand(mat, command);
-                printMatrix(mat);
-            }
-            
-            if(onlyCommand.equals("F")){
-                mat = fillColorMatrix(mat, command);
-                printMatrix(mat);
-            }*/
-            
+           
         }
     
     }
